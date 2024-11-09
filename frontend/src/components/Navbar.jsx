@@ -46,11 +46,16 @@ const Navbar = () => {
             <Link to={"/appointment"} onClick={() => setShow(!show)}>
               Appointment
             </Link>
-            <Link to={"/about"} onClick={() => setShow(!show)}>
-              Blog
-            </Link>
+
+
+            
+            <a href=" https://672fa0496612de73d6dcdcd5--spiffy-melba-f67476.netlify.app/ " target="_blank" rel="noopener noreferrer">
+                   Blog
+            </a>
+
+
             <a href="https://subtle-chebakia-cc9359.netlify.app/" target="_blank" rel="noopener noreferrer">
-                   Cart
+                   Shop
                </a>
             <Link to={"/about"} onClick={() => setShow(!show)}>
               About Us
