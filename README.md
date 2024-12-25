@@ -5,7 +5,10 @@ https://frontend-djug.onrender.com
 ADMIN PANEL
 https://dashbord-m9dr.onrender.com
 SCREENSHORT
-
+![ggupro2](https://github.com/user-attachments/assets/d118d071-9fb0-4d6c-bb50-6bf41b64a830)
+![ggupro3](https://github.com/user-attachments/assets/7b88ec0d-653c-4c03-9cdf-92690af8ce57)
+![ggupro1](https://github.com/user-attachments/assets/b9ecfde3-51b4-4307-a503-c46b7276f713)
+PATIENT PANEL
 
 
 # Getting Started with Create React App
