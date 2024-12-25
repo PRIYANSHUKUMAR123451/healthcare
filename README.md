@@ -1,10 +1,11 @@
 # healthcare
 
-#PATIENT PANEL
+PATIENT PANEL
 https://frontend-djug.onrender.com
-#ADMIN PANEL
+ADMIN PANEL
 https://dashbord-m9dr.onrender.com
-#SCREENSHORT
+SCREENSHORT
+
 
 
 # Getting Started with Create React App
