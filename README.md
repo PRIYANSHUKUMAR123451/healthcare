@@ -1,5 +1,8 @@
 # healthcare
-
+Project Management
+![Image](https://github.com/user-attachments/assets/0485337f-8de2-4079-8d72-78bf64d9f414)
+![Image](https://github.com/user-attachments/assets/cb6c409f-a2aa-4959-abfb-62455f3e5e1f)
+![Image](https://github.com/user-attachments/assets/517a2048-bc6b-4d93-9888-e2a4c43fbdbc)
 PATIENT PANEL
 https://frontend-djug.onrender.com
 ADMIN PANEL
