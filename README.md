@@ -9,9 +9,9 @@ SCREENSHORT
 ![ggupro3](https://github.com/user-attachments/assets/7b88ec0d-653c-4c03-9cdf-92690af8ce57)
 ![ggupro1](https://github.com/user-attachments/assets/b9ecfde3-51b4-4307-a503-c46b7276f713)
 Project Management Using JIRA
-![Image](https://github.com/user-attachments/assets/0485337f-8de2-4079-8d72-78bf64d9f414)
-![Image](https://github.com/user-attachments/assets/cb6c409f-a2aa-4959-abfb-62455f3e5e1f)
-![Image](https://github.com/user-attachments/assets/517a2048-bc6b-4d93-9888-e2a4c43fbdbc)
+![Image](https://github.com/user-attachments/assets/93539759-8bc6-41d8-be82-fa4ffb8ae754)
+![Image](https://github.com/user-attachments/assets/f8420cdb-76a1-41e9-8ced-164c99c34aee)
+![Image](https://github.com/user-attachments/assets/f9ee25db-1b60-4c11-9cd9-39a8823a6af5)
 
 # Getting Started with Create React App
 
